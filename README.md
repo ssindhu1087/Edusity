@@ -10,13 +10,13 @@ This is a **Single-page React Website** for an institute, providing information 
 - **Gallery**: Gallery which shows the campus photos.
 - **Contact**: Contact information and a simple contact.
 
-  ## Technologies Used
+## Technologies Used
 
 - **React**: JavaScript library for building user interfaces.
 - **Vite**: Vite is a modern build tool that is fast and optimized for development and production, making it a great choice for React projects. 
 - **CSS**: Styles for the website layout and design.
 
-  ## Screenshots
+## Screenshots
   
   ![image](https://github.com/user-attachments/assets/21a2630a-7137-408f-9025-c592fae8ea9b)
   

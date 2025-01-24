@@ -8,6 +8,7 @@ This is a **Single-page React Website** for an institute, providing information 
 - **About Us**: Brief description of the institute's mission, history, and values.
 - **Programs**: List of academic programs and courses offered by the institute.
 - **Gallery**: Gallery which shows the campus photos.
+- **Testimonials**: Positive feedback from students.
 - **Contact**: Contact information and a simple contact.
 
 ## Technologies Used

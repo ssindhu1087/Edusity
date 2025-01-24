@@ -5,6 +5,8 @@ This is a **Single-page React Website** for an institute, providing information 
 ## Features
 
 - **Single Page Layout**: All information is available on one page with smooth scrolling and navigation.
+- **Fast and modern**: Built using React for the front-end and Vite for a super-fast development experience.
+- **Responsive Design**: Fully responsive layout that works on mobile, tablet, and desktop.
 - **About Us**: Brief description of the institute's mission, history, and values.
 - **Programs**: List of academic programs and courses offered by the institute.
 - **Gallery**: Gallery which shows the campus photos.
@@ -14,7 +16,7 @@ This is a **Single-page React Website** for an institute, providing information 
 ## Technologies Used
 
 - **React**: JavaScript library for building user interfaces.
-- **Vite**: Vite is a modern build tool that is fast and optimized for development and production, making it a great choice for React projects. 
+- **Vite**: A modern build tool that provides fast build and hot-reload functionality.
 - **CSS**: Styles for the website layout and design.
 
 ## Screenshots
